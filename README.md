@@ -2,7 +2,11 @@
 
 ## Instructions for Use
 
+- Download the hangman.cpp and common-7-letter-words.txt files.
 
+- In line 133 of the program file, paste the file path of the words text file in place of "insert_filepath_here".
+
+- Run the program either as a .exe file or on your command line(cmd/terminal).
 
 ## About the Program
 
@@ -13,8 +17,8 @@ the player to keep up with the game.
 
 ## Key Concepts Used in this Project
 
--Object-Oriented Programming(OOP)
+- Object-Oriented Programming(OOP)
 
--File Handling
+- File Handling
 
--Dynamic Arrays(Vectors)
+- Dynamic Arrays(Vectors)
