@@ -13,6 +13,6 @@ the player to keep up with the game.
 
 ## Key Concepts Used in this Project
 
--Object-Oriented Programming(OOP)
--File Handling
--Dynamic Arrays(Vectors)
+-Object-Oriented Programming(OOP) 
+-File Handling 
+-Dynamic Arrays(Vectors) 
